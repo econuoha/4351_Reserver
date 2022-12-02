@@ -1,5 +1,7 @@
 Group 30 4351 Project
 
+Simulator Video -> https://drive.google.com/file/d/1OOw72mupliUQlTOBKSOIaJWbPRNeBS17/view?usp=sharing
+
 Description:
 
 A restaurant chain has reached out to your team to build a reservation system.
@@ -32,4 +34,4 @@ o   Notify user no show will have minimum $10 charge.
 
 
 
-Simulator Video -> https://drive.google.com/file/d/1OOw72mupliUQlTOBKSOIaJWbPRNeBS17/view?usp=sharing
+
